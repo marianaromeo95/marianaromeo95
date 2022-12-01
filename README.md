@@ -5,7 +5,7 @@ Currently working towards a BS in Software Engineering at DeVry University. I've
 - 🌍  I'm based in Brasília, DF - Brazil
 - 😄 Pronouns: she/her
 - 📧 You can contact me at desenvolvedoramariromeo@gmail.com
-- 🔭 Looking for my 1st internship
+- 🔭 Looking for new oportunities in front-end develoopment
 - 🌱  I'm currently learning Java, TypeScript, and Angular 
 - ⚡ Fun fact: I am a proud US Air Force veteran.
 
