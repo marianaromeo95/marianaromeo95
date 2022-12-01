@@ -6,7 +6,7 @@ Currently working towards a BS in Software Engineering at DeVry University. I've
 - 😄 Pronouns: she/her
 - 📧 You can contact me at desenvolvedoramariromeo@gmail.com
 - 🔭 Looking for new oportunities in front-end develoopment
-- 🌱  I'm currently learning Java, TypeScript, and Angular 
+- 🌱  I'm currently learning C# and .Net Core
 - ⚡ Fun fact: I am a proud US Air Force veteran.
 
 ### Skills
