@@ -1,12 +1,20 @@
 ### Hi everyone, 👋 my name is Mariana 
+● Over 3 years of dedicated experience in Quality Assurance, focusing on web and mobile automation testing.
+● Proficient in a diverse array of technologies, including Java, .NET Core, Appium, Selenium, SpecFlow, and Cucumber.
+● Skilled in executing functional, regression, usability, and API testing, enhancing software quality and reliability.
+● Experienced in Agile and Scrum methodologies, actively participating in all phases of the sprint cycle to ensure testing aligns with project goals.
+● Demonstrated ability in analyzing business requirements and functional documents to design comprehensive test strategies.
+● Adept at developing automated tests in collaboration with developers using Selenium, Cucumber, and Maven, aiming for continuous regression testing and reduction of manual efforts.
+● Proficient in writing SQL queries for database validation and conducting functional, integration, and validation testing across various applications.
+● Expert in developing features, scenarios, and step definitions with Cucumber for Behavior-Driven Development (BDD), enhancing testing frameworks and practices.
+● Strong background in creating, maintaining, and executing detailed test plans and cases, ensuring thorough coverage and adherence to quality standards.
+● Excellent communication skills, facilitating effective collaboration with team members, business analysts, and developers to deliver high-quality software solutions.
 
-Currently working towards a BS in Software Engineering at DeVry University. I've been learning to code for 2 years, since my college admission and after switching careers. I started with C language to learn programming logic, Data Structures and Java for concepts of Object Oriented Programming, making a few front-end projects between them, using HTML5, CSS3, Bootstrap 5, JavaScript and some other back-end projects with Java, mySQL, JBDC, GIT and Spring MVC. However, I have found a passion for front-end development while studying JavaScript and I'm looking forward to start my studies with Spring Framework. 
-
-- 🌍  I'm based in Brasília, DF - Brazil
+- 🌍  I'm based in Orlando, FL
 - 😄 Pronouns: she/her
 - 📧 You can contact me at desenvolvedoramariromeo@gmail.com
-- 🔭 Looking for new oportunities in front-end development
-- 🌱  I'm currently learning C# and .Net Core
+- 🔭 Looking for new oportunities in QA Automation Engineer 
+- 🌱  I'm currently working on my CTFL certification
 - ⚡ Fun fact: I am a proud US Air Force veteran.
 
 ### Skills
